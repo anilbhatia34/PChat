@@ -5,7 +5,7 @@ body{
 h2{
     font-size: 18px;
     padding: 10px 20px;
-    color: #575ed8;
+    color: #4885f7;
 }
 
 #mario-chat{
@@ -59,7 +59,7 @@ input{
 }
 
 button{
-    background: #575ed8;
+    background: #0810aa;
     color: #fff;
     font-size: 18px;
     border: 0;
