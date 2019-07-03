@@ -1,11 +1,12 @@
 body{
     font-family: 'Nunito';
+    background-color:white
 }
 
 h2{
     font-size: 18px;
     padding: 10px 20px;
-    color: #4885f7;
+    color: #666a72;
 }
 
 #mario-chat{
@@ -36,7 +37,7 @@ h2{
 }
 
 #output strong{
-    color: #575ed8;
+    color: #0e7c04;
 }
 
 label{
@@ -59,7 +60,7 @@ input{
 }
 
 button{
-    background: #0810aa;
+    background:green;
     color: #fff;
     font-size: 18px;
     border: 0;
