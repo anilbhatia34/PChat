@@ -1,5 +1,5 @@
 // Make connection
-const socket = io.connect('https://intelligaiachatsystem.herokuapp.com/');
+const socket = io.connect('https://mchatbyanil.herokuapp.com/');
 
 // Query DOM
 var message = document.getElementById('message'),
